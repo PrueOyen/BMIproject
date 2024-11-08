@@ -1,0 +1,14 @@
+Pruddy Oyenn	32	158.0	68.0	27.24	Overweight
+Mimi Joybrown	39	160.0	75.0	29.30	Overweight
+Aisosa Ejiro	19	159.0	61.0	24.13	Normal
+Micky Moore	49	170.0	98.0	33.91	Obese
+Jolly Molly	29	150.0	82.0	36.44	Obese
+Holly Dolly	19	162.0	82.0	31.25	Obese
+Jireh Candy	31	159.0	59.0	23.34	Normal
+Micheal Stuupid	51	157.0	79.0	32.05	Obese
+Jenni Brown	32	157.0	52.0	21.10	Normal
+Jenni Brown	32	147.0	32.0	14.81	Underweight
+Beauty Efe	22	157.0	32.0	12.98	Underweight
+Grace Markus	63	160.0	71.0	27.73	Overweight
+Lyan Eben	18	159.0	60.0	23.73	Normal
+Peace Godwin	21	160.0	58.0	22.66	Normal
